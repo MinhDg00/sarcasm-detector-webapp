@@ -1,5 +1,6 @@
-#### Simple Text Analytics Use Case 
-#### Try working on Imdb data set and keras library to track the emotions ( positive, negative) of a movie review
-#### Note: In a lot a case, it can be used to track emotitions of sentences 
-####  
+#### Simple Sarcasm Detection Use Case 
+The purpose of the project is to detect sarcasm in the sentences and analyze the model performance (baseline, LSTM, Convolutional, ...etc).
+The data used in the project is [News Headlines Dataset for Sarcasm Detection] (https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) on Kaggle
+
+
 

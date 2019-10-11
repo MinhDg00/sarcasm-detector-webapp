@@ -3,6 +3,5 @@ The purpose of the project is to detect sarcasm in the sentences and analyze the
 
 The data used in the project is [News Headlines Dataset for Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) on Kaggle
 
-Some of materials come from [Tensor in Practice series](https://www.coursera.org/specializations/tensorflow-in-practice?) on Coursera 
 
 

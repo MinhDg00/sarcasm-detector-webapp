@@ -5,6 +5,8 @@ The data used in the project is [News Headlines Dataset for Sarcasm Detection](h
 
 This project is a practice for some of the things I learn in [Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
 
+Currently working on tuning
+
 
 
 
